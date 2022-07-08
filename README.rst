@@ -12,7 +12,7 @@
 .. |PyPI| image:: https://badge.fury.io/py/errorhandler.svg
 .. _PyPI: https://badge.fury.io/py/errorhandler
     
-ErrorHandler
+ErrorHandler - WIP
 ============
 
 This is a handler for the python standard logging framework that can
